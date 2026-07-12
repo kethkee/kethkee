@@ -31,5 +31,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/keerthana-p-b-b52b462a2/
+- Email: keerthanapb685@gmail.com
