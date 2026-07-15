@@ -2,7 +2,7 @@
 
 🎓 Computer Science and Engineering Student
 💻 Aspiring Python & Full Stack Developer
-🌱 Currently learning React and improving my Data Structures & Algorithms skills.
+
 
 ---
 
