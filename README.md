@@ -1,8 +1,11 @@
+<div align="center">
+
 # Hi there, I'm Keerthana 👋
 
 🎓 Computer Science and Engineering Student
 💻 Aspiring Python & Full Stack Developer
 
+</div>
 
 ---
 
