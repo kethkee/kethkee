@@ -23,6 +23,7 @@
 ## 📌 Featured Projects
 
 - 🏫 Smart Campus Digital Twin – Campus Monitoring & Navigation System
+- 📚 TinyPal - AI Study Planner Generator
 - 📄 HireSmart AI – AI-powered Resume Screening System
 - 🎫 Support Ticket Classifier – Django-based Ticket Management Application
 - 📈 Sales Forecasting System – Machine Learning Project
